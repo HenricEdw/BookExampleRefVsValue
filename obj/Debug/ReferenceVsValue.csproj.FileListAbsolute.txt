@@ -1,0 +1,6 @@
+C:\CodeProjects\ReferenceVsValue\bin\Debug\ReferenceVsValue.exe.config
+C:\CodeProjects\ReferenceVsValue\bin\Debug\ReferenceVsValue.exe
+C:\CodeProjects\ReferenceVsValue\bin\Debug\ReferenceVsValue.pdb
+C:\CodeProjects\ReferenceVsValue\obj\Debug\ReferenceVsValue.csprojAssemblyReference.cache
+C:\CodeProjects\ReferenceVsValue\obj\Debug\ReferenceVsValue.exe
+C:\CodeProjects\ReferenceVsValue\obj\Debug\ReferenceVsValue.pdb
